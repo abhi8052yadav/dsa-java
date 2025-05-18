@@ -1,0 +1,6 @@
+//Binary tree have only two child, left and right.
+
+//all them are called nodes.
+//the first node is the root/parent node.
+//the last node is leaf node.
+
